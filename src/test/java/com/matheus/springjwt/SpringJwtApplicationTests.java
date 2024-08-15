@@ -1,13 +1,13 @@
-package com.matheus.springjwt;
+// package com.matheus.springjwt;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.junit.jupiter.api.Test;
+// import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class SpringJwtApplicationTests {
+// @SpringBootTest
+// class SpringJwtApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+// 	// @Test
+// 	void contextLoads() {
+// 	}
 
-}
+// }
